@@ -1,0 +1,30 @@
+html {
+  margin: none;
+  padding: none;
+  font: normal 100%/1.4 Verdana,serif;
+
+}
+body {
+margin-right: 100px;
+margin-left: 40px;
+margin-top: 40px;
+background-color: lightyellow;
+}
+
+.current {
+color: green;
+
+}
+.nav-top {
+font-size: 1.25rem;
+
+}
+ul {
+text-decoration: none;
+list-style-type: circle;
+
+}
+a {
+text-decoration: none;
+
+}

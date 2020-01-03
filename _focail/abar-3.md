@@ -3,12 +3,13 @@ layout: default
 cnuas: "Cnuasach Focal as Teileann"
 focal: abar
 leagan: abar
-rann: ainmfhocal 
+rann: ainmfhocal
 béarla: "moist clay"
 údar: "Úna M. Uí Bheirn"
 ---
 
-# abar
+## abar 3
 
-3. In a ~, muddied. mar bheifidhe a mheascadh le maide pota
-agus an t-uisce uilig ina ~ MChl 992 170. 
+
+* In a ~, muddied. mar bheifidhe a mheascadh le maide pota
+agus an t-uisce uilig ina ~ MChl 992 170.

@@ -1,6 +1,6 @@
 ---
 title: Neach
-layout: default
+layout: liosta
 ---
 
 <!doctype html>
@@ -8,14 +8,16 @@ layout: default
   <head>
     <meta charset="utf-8">
     <title>{{ page.title}}</title>
+    <link rel="stylesheet" href="{{site.baseurl}}/css/cnuas.css">
   </head>
   <body>
-    <h1>{{ page.title}}</h1>
-    <h3>Focail</h3>
+
+    <h3>Foclóir</h3><hr>
     {% for focal in site.focail %}
-     <h4>{{focal.title}}</h4>
+<h4>{{focal.leagan}}</h4>
+{{focal.rann}}
      <p>{{ focal.content | markdownify }}</p>
-     <hr><br>
+  <hr>
     {% endfor %}
 
   </body>

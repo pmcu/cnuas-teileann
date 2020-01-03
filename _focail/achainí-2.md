@@ -3,16 +3,12 @@ layout: default
 cnuas: "Cnuasach Focal as Teileann"
 focal: achainí
 leagan: achainí
-rann: ainmfhocal 
+rann: ainmfhocal
 béarla: entreaty
 údar: "Úna M. Uí Bheirn"
 ---
 
-# achainí
+## achainí 2
 
-## Rann cainte: ainmfhocal 
-
-f. 
-
-2. Mar ~ le Dia (ar) agus … (+cl. in imper.), for the love
+* Mar ~ le Dia (ar) agus … (+cl. in imper.), for the love
 of God. Mar athchuingne le Dia ort agus stad den ól 991 414.

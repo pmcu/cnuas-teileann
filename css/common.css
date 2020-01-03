@@ -2,9 +2,17 @@ html {
   margin: none;
   padding: none;
   font: normal 100%/1.4 Georgia,serif;
+}
 
+body {
+margin-right: 100px;
+margin-left: 40px;
+margin-top: 40px;
+background-color: lightyellow;
+}
 
-
+.current {
+color: green;
 }
 
 ul {
@@ -19,5 +27,9 @@ color: green;
 }
 .nav-top {
 font-size: 1.25rem;
+
+}
+a {
+text-decoration: none;
 
 }

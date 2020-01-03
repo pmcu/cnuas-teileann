@@ -3,14 +3,13 @@ layout: default
 cnuas: "Cnuasach Focal as Teileann"
 focal: ach
 leagan: ach
-rann: cónasc 
+rann: cónasc
 béarla: but
 údar: "Úna M. Uí Bheirn"
 ---
 
-# ach
+## ach 4
 
-## Rann cainte conj. 
 
-4. ~ go, only because. D’éirigh liom ~ go dtáinic Niall é
-fhéin liom … gur chuidigh sé liom Dial 1107 269.
+* ~ go, only because.
+* D’éirigh liom ~ go dtáinic Niall é fhéin liom … gur chuidigh sé liom Dial 1107 269.

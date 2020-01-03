@@ -12,3 +12,12 @@ text-decoration: none;
 list-style-type: none;
 
 }
+
+.current {
+color: green;
+
+}
+.nav-top {
+font-size: 1.25rem;
+
+}

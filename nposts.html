@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>Postanna Úra</h1>
+
+<ul>
+  {% for item in site.posts %}
+  <li>
+<a href="{{item.url}}">{{item.title}}</a>
+<p>{{item.meta}}</p>
+  </li>
+{% endfor %}
+</ul>

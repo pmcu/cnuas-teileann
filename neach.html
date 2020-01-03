@@ -1,0 +1,22 @@
+---
+title: Neach
+layout: default
+---
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title}}</title>
+  </head>
+  <body>
+    <h1>{{ page.title}}</h1>
+    <h3>Focail</h3>
+    {% for focal in site.focail %}
+     <h4>{{focal.title}}</h4>
+     <p>{{ focal.content | markdownify }}</p>
+     <hr><br>
+    {% endfor %}
+
+  </body>
+</html>

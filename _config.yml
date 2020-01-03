@@ -1,3 +1,7 @@
 markdown: kramdown
 baseurl: /cnuas-teileann
 exclude: [README.md]
+
+collections:
+  focail:
+    output: true

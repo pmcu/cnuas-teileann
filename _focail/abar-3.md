@@ -11,5 +11,5 @@ bearla: "moist clay"
 ## abar 3
 
 
-* In a ~, muddied. mar bheifidhe a mheascadh le maide pota
-agus an t-uisce uilig ina ~ MChl 992 170.
+* In a ~, muddied.
+* mar bheifidhe a mheascadh le maide pota agus an t-uisce uilig ina ~ MChl 992 170.

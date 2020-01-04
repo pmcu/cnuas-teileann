@@ -16,7 +16,8 @@ layout: liosta
     {% for focal in site.focail %}
 <h4>{{focal.leagan}}</h4>
 <h5>{{focal.rann}}</h5>
-<h5>{{focal.bearla}}</h5>
+<strong>Béarla: </strong>
+{{focal.bearla}}
      <p>{{ focal.content | markdownify }}</p>
   <hr>
     {% endfor %}

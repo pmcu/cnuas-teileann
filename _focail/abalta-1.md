@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: ábalta
 leagan: a
 rann: aidiacht
-béarla: able
+bearla: able
 údar: "Úna M. Uí Bheirn"
 ---
 

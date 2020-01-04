@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: abhaile
 leagan: abhaile
 rann: dobhriathar
-béarla: home
+bearla: home
 údar: "Úna M. Uí Bheirn"
 ---
 

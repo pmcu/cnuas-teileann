@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: abhaill
 leagan: abhaill
 rann: ainmfhocal
-béarla: orchard
+bearla: orchard
 údar: "Úna M. Uí Bheirn"
 ---
 

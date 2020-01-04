@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: ach
 leagan: ach
 rann: cónasc
-béarla: but
+bearla: but
 údar: "Úna M. Uí Bheirn"
 ---
 

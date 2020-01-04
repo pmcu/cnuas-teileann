@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: abar
 leagan: abar
 rann: ainmfhocal
-béarla: home
+bearla: home
 údar: "Úna M. Uí Bheirn"
 ---
 

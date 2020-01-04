@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: abhar
 leagan: ádhbhar
 rann: ainmfhocal
-béarla: big wave
+bearla: big wave
 údar: "Úna M. Uí Bheirn"
 ---
 

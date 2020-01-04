@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: achainí
 leagan: athchuingne
 rann: ainmfhocal
-béarla: entreaty
+bearla: entreaty
 údar: "Úna M. Uí Bheirn"
 ---
 

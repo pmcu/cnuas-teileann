@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: abhartha
 leagan: abhartha
 rann: aidiacht
-béarla: agitated
+bearla: agitated
 údar: "Úna M. Uí Bheirn"
 ---
 

@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: abhainn
 leagan: abhainn
 rann: ainmfhocal
-béarla: river
+bearla: river
 údar: "Úna M. Uí Bheirn"
 ---
 

@@ -8,6 +8,7 @@ layout: liosta
   <head>
     <meta charset="utf-8">
     <title>{{ page.title}}</title>
+    "{{ post.url | relative_url }}"
     <link rel="stylesheet" href="{{site.baseurl}}/css/cnuas.css">
   </head>
   <body>
@@ -16,7 +17,7 @@ layout: liosta
     {% for focal in site.focail %}
 <h4>{{focal.leagan}}</h4>
 <h5>{{focal.rann}}</h5>
-<h5><a href="{{focal.url}}" >{{focal.leagan}}</a></h5>
+<h5><a href="{{focal.url | relative_url}}" ><strong>Nasc</strong>: {{focal.leagan}}</a></h5>
 <strong>Béarla: </strong>
 {{focal.bearla}}
      <p>{{ focal.content | markdownify }}</p>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: liosta
 cnuas: "Cnuasach Focal as Teileann"
 focal: abhaile
 leagan: abhaile

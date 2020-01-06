@@ -1,5 +1,5 @@
 ---
-layout: liost
+layout: liosta
 cnuas: "Cnuasach Focal as Teileann"
 focal: aduaidh
 leagan: i dtuaidh

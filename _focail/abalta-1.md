@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: liosta
 cnuas: "Cnuasach Focal as Teileann"
 focal: ábalta
-leagan: a
+leagan: ábalta
 rann: aidiacht
 bearla: able
 údar: "Úna M. Uí Bheirn"

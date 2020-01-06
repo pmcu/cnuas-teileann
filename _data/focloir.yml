@@ -1,0 +1,25 @@
+- ainm: dá
+  leagan: a
+  bearla: if
+  rann: cónasc
+  sampla: a mbeadh a fhios aige
+- ainm: de
+  leagan: a
+  bearla: of
+  rann: réamhfhocal
+  sampla: a chois na teineadh
+- ainm: a
+  leagan: a
+  bearla: none
+  rann: mír choibhneasta
+  sampla: nuair a bíos an ghrian láidir
+- ainm: á
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+- ainm: ábalta
+  leagan: ábalta
+  bearla: able
+  rann: aidiacht
+  sampla: ach mise a bheith ábalta aige, ag an diabhal bhean a luigheann sé

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<h3>Cnuasach Focal as Teileann</h3>
+
+<h4>Liosta Focal</h4>
+
+{% for item in site.data.focloir %}
+
+<ul>
+	<li><strong> Focal:</strong> {{ item.ainm}}</li>
+	<li><strong>Leagan:</strong> {{ item.leagan}}</li>
+	<li><strong>Béarla:</strong> {{ item.bearla }}</li>
+	<li><strong>Rann Cáinte:</strong> {{ item.rann }}</li>
+	<li><strong>Sampla:</strong> {{ item.sampla }}</li>
+
+	<hr>
+</ul>
+
+{% endfor %}
+
+

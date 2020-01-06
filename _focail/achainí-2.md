@@ -11,4 +11,5 @@ bearla: entreaty
 ## achainí 2
 
 * Mar ~ le Dia (ar) agus … (+cl. in imper.), for the love
-of God. Mar athchuingne le Dia ort agus stad den ól 991 414.
+of God.
+* Mar athchuingne le Dia ort agus stad den ól 991 414.

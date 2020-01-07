@@ -11,7 +11,7 @@ bearla: quick
 ## achmair 1
 
 * (a) (Of time taken to accomplish sth.) Speedy.
-* an chúirt ariamh a chuaidh suas comh hachmair léithe MI 990 161.
+* a'n chúirt ariamh a chuaidh suas comh hachmair léithe MI 990 161.
 * Goidé an achmaireacht atá sa teachtaire is achmaire aghat? SB6
 141 374.
 * chuidighead sé an cneádhan a líonadh go hachmair SSl 1034 297.

@@ -15,4 +15,4 @@ bearla: home
 going home.
 * agus a mbíodh an lá ~ leobhtha SE1 1118 75.
 * mar is gráthach bhí an oidhche ~ leis CB2 1170 125. cf.  
-* Bhí an lá gairid agus an oidhche ’na bhaile linn Dial 1108 481.
+* Bhí an lá goirid agus an oidhche ’na bhaile linn Dial 1108 481.

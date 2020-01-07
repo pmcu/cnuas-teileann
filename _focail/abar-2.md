@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: abar
 leagan: abar
 rann: ainmfhocal
-bearla: "moist clay"
+bearla: "type of fertiliser"
 údar: "Úna M. Uí Bheirn"
 ---
 

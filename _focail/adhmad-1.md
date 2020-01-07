@@ -10,5 +10,5 @@ bearla: wood
 
 # Adhmad 1
 
-* Adhmaid, ribs or timbers -;
-* ádhmaid urláir, - timbers on bottom of boat - SE1 1238 218.
+* Adhmaid, 'ribs or timbers';
+* ádhmaid urláir, - 'timbers on bottom of boat' - SE1 1238 218.

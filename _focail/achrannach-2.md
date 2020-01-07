@@ -8,6 +8,6 @@ bearla: quarelsome
 údar: "Úna M. Uí Bheirn"
 ---
 
-# Achrannach
+# Achrannach 2
 
 2. (Of person) Quarrelsome.

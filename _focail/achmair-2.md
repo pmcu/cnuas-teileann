@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: achmair
 leagan: a
 rann: aidiacht
-bearla: quick
+bearla: speedy
 údar: "Úna M. Uí Bheirn"
 ---
 

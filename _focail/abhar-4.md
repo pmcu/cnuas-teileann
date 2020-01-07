@@ -11,5 +11,4 @@ bearla: stuff
 ## ábhar 3
 
 
-* ~ scaoilte, ammunition. go rabh siad reaithte as ádhbhar
-scaoilte SEl 989 359.
+* ~ scaoilte, ammunition. go rabh siad reaithte as ádhbhar scaoilte SEl 989 359.

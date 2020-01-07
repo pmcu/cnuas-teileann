@@ -10,7 +10,4 @@ bearla: distance
 
 # Acra
 
-n.                                    
-
-(Of distance, in folktales). thug sé buille da ceann leis a  chuir naoi
-n-acaire agus naoi n-iomaire i DBl 135 20. s. a.   eitre.  
+* (Of distance, in folktales). thug sé buille da ceann leis a  chuir naoi n-acaire agus naoi n-iomaire i DBl 135 20. s. a.   eitre.  

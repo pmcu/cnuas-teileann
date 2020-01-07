@@ -11,5 +11,4 @@ bearla: able
 ## ábalta
 
 * ~ ag, able for.
-* ach mise a bheith ~ aige, ag an diabhal
-bhean a luigheann sé aicí SB7 2077 92.
+* ach mise a bheith ~ aige, ag an diabhal bhean a luigheann sé aicí SB7 2077 92.

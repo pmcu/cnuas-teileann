@@ -12,11 +12,10 @@ bearla: horn
 
 * (a) bhí siad in adharca leis an bhunadh eile SE4 989 405,
 at loggerheads with ...
-
 * (b) bhi adharcai aca orainn le groithe scéalta sídhe agus
 taidhbhsigh PB4 390 119, ... our hair standing on end.
 * (c) agus an té a thráchtfadh air chuirfead (sic) an t-aos óg
-adharcaí air MChl 1034 31, ... would think he was the Devil                                    himself.                                                                                      
+adharcaí air MChl 1034 31, ... would think he was the Devil                                  himself.                                                  
 * (d) B'iomaidh duine ar chuidigh siad [sióga] go maith leis                                 
 agus ar thóg siad an ~ as an uisce aige SBl 1170 244, ...                                  
 saved him from want.

@@ -10,5 +10,4 @@ bearla: face
 
 ## aghaidh 5 
 
-The smelt of a fish. ~ = spealt SEI
-1238 224
+* The smelt of a fish. ~ = spealt SEI 1238 224

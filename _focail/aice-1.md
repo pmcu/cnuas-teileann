@@ -9,7 +9,7 @@ bearla: near
 ---
 ## Aice 1
 
-* (a) Le (+poss. a.) ~, beside (s.o.).
+* (a) Le (+poss. a.) ~, beside (s.o.). 
 * Labhair sé le hEoin ar [ór?] sé bhi’ le n- ~ MDhl
 140 184. 
 * (b) (Of time, amount) In ~ le, nearly, almost. 

@@ -10,9 +10,12 @@ udar: "Úna M. Uí Bheirn"
 
 ## aice 2
 
-* (a) An ~ choim, tuberculosis.
-* gur i [an] casachtach a bhí air nó brainnse ínteacht den ~ choim MChl 1034 170. cf.
-* 'Sé deireadh 'ach galair ar dhuine ar bith an ~ chaim SCT 111.
-* (b) ~ na brád, diptheria.
-* bhuail ~ na brághad í, agus bhí sí leis an bhás ME 989 403.
-
+* Direction. In ~, in the direction of, facing towards.
+* d'amharc fear acu siar in ~ bhun na spéire PS3
+1489 226. 
+* Thug sé [coileach] a aghaidhe amach in ~ na fairrge an dóigh chéadna MBh 989 387. 
+* go raibh toirt cheithre scór slat de roiste aicí agus
+shighin sé [recte shín sí (?)] amach díreach ina n- ~
+san NC 390 72.
+* bhí an taobh den leith a bhí in ~ a bhoise comh geal leis an tsneachta SSI 988 329.
+* an té a scuabfadh an teach in ~ an dorais le [recte bhí] ádh an toighe á scuabadh amach aige SS1 992 113.

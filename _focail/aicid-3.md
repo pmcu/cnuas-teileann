@@ -1,8 +1,8 @@
 ---
 layout: liosta
 cnuas: "Cnuasach Focal as Teileann"
-focal: aice
-leagan: aice
+focal: aicíd
+leagan: aicíd
 rann: ainmfhocal
 bearla: vicinity
 udar: "Úna M. Uí Bheirn"

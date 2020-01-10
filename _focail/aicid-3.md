@@ -7,7 +7,7 @@ rann: ainmfhocal
 bearla: vicinity
 udar: "Úna M. Uí Bheirn"
 ---
-## aice 3
+## aicíd 3
 
 * An ~ chasta, staggers (in sheep).
 *  Tig galar eile ar chaoiri'go minic a dtabharann muid an ~ chasta uirthi Béal 37/38 152.

@@ -3,14 +3,22 @@
   <head>
     <meta charset="utf-8">
     <title>Cnuasach Theileann</title>
-<link rel="stylesheet" href="{{site.baseurl}}/css/cnuas.css">
+<link rel="stylesheet" href="{{site.baseurl}}/css/common.css">
   </head>
   <body>
 	  <header>
-		  <h2>Cnuasach Focal as Teilean</h2>
+		  <h1>Cnuasach Focal as Teileann</h1>
+		  {% include nav.html navclass='nav-top' %}
 	  </header>
+    <img src="{{site.baseurl}}/img/drch9.jpg">
     <hr>
 	  {{content}}
 <hr>
+<footer>
+
+	  {% include nav.html navclass='nav-bottom' %}
+</footer>
+
+
   </body>
 </html>

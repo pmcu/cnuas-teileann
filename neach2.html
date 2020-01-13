@@ -1,0 +1,28 @@
+---
+title: Neach 2
+layout: liosta
+---
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title}}</title>
+    "{{ post.url | relative_url }}"
+    <link rel="stylesheet" href="{{site.baseurl}}/css/cnuas.css">
+  </head>
+  <body>
+
+    <h3>Foclóir</h3><hr>
+    {% for focal in site.focail %}
+<h4>{{focal.leagan}}</h4>
+<h5>{{focal.rann}}</h5>
+<h5><a href="{{focal.url | relative_url}}" ><strong>Nasc</strong>: {{focal.leagan}}</a></h5>
+<strong>Béarla: </strong>
+{{focal.bearla}}
+     
+  <hr>
+    {% endfor %}
+
+  </body>
+</html>

@@ -1,3 +1,8 @@
+---
+layout: default
+title: dog
+
+---
 <!DOCTYPE html>
 <html lang="ga">
 <head>
@@ -9,7 +14,7 @@
 {% for dog in site.text %}
 <li>
 	<h2>{{ dog.title}}</h2>		
-<p>{{ dog.excerpt }}</p>
+<p>{{ dog.content | markdownify }}</p>
 
 	</li>
 	

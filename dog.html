@@ -4,9 +4,14 @@
 	<meta charset="UTF-8">
 	<title></title>
 </head>
-<body>
+<body> 
+<p>
+
 	{% for dog in site.text %}
-	<p>{{dog.content | markdownify }}</p>
+{{dog.content }}
+
 	{% endfor %}
+</p>
+	
 </body>
 </html>

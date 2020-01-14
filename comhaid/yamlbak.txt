@@ -1,0 +1,2903 @@
+- ainm: abar 
+  leagan: a
+  bearla: type of fertilizer
+  rann: ainmfhocal
+  sampla: ba ghnách leofa leas a dhéanamh a dtugadh siad abar meanach air 
+  link:
+- ainm: abar 
+  leagan: a
+  bearla: muddied
+  rann: ainmfhocal
+  sampla: mar bheifí a mheascadh le maide pota agus an t-uisce uilig ina abar
+  link:
+- ainm: abhaile 
+  leagan: abhaile, chun an bhaile
+  bearla: home
+  rann: dobhriathar
+  sampla: ag tabhairt an scóid abhaile, bringing down the sail
+  link:
+- ainm: abhaile 
+  leagan: abhaile, chun an bhaile
+  bearla: home
+  rann: dobhriathar
+  sampla: dá mbeadh an lá chun an bhaile leofa 
+  link:
+- ainm: abhaill 
+  leagan: abhaill
+  bearla: orchard
+  rann: ainmfhocal
+  sampla: Tharraing sé ar an abhaill agus chuaidh sé suas i gcionn de na crainn
+  link:
+- ainm: abhainn 
+  leagan: abhainn
+  bearla: river
+  rann: ainmfhocal
+  sampla: agus an fheoil a bhí sailtithe aici a chaitheamh leis an abhainn
+  link:
+- ainm: abhar 
+  leagan: ábhar
+  bearla: a big wave
+  rann: ainmfhocal
+  sampla: chonaic sé an t-abhar ag éirí amuigh
+  link:
+- ainm: ábhar 
+  leagan: ábhar
+  bearla: is the reason for
+  rann: ainmfhocal
+  sampla: má gheibh aon fhear bán amach go deo cad é is ábhar leis
+  link:
+- ainm: ábhar 
+  leagan: ábhar
+  bearla: makings, stuff
+  rann: ainmfhocal
+  sampla: seo í ábhar mo mhnása
+  link:
+- ainm: ábhar 
+  leagan: ábhar
+  bearla: makings, stuff
+  rann: ainmfhocal
+  sampla: seo í ábhar mo mhnása
+  link:
+- ainm: ábhar 
+  leagan: ábhar
+  bearla: makings, stuff
+  rann: ainmfhocal
+  sampla: seo í ábhar mo mhnása
+  link:
+- ainm: ábhar 
+  leagan: ábhar
+  bearla: ammunition
+  rann: ainmfhocal
+  sampla: go raibh sé reaite as ábhar scaoilte
+  link:
+- ainm: abhartha 
+  leagan: abhartha
+  bearla: agitated
+  rann: aidiacht
+  sampla: tá an fharraige abhartha
+  link:
+- ainm: ach 
+  leagan: ach
+  bearla: on the contrary
+  rann: cónasc
+  sampla: níor stad sé ach ina ghaoth mhór agus ina fharraige go maidin 
+  link:
+- ainm: ach 
+  leagan: ach
+  bearla: unless, until
+  rann: cónasc
+  sampla: Ní rachaidh mé ach dá bhfaighidh mé scéala cinnte
+  link:
+- ainm: ach 
+  leagan: ach
+  bearla: emphatic before subjunctive clause 
+  rann: cónasc
+  sampla: bhí sé ag cur bhuartha orthu ach cé leis a dtitfeadh a gcuid saibhris i ndiaidh a bháis.
+  link:
+- ainm: ach 
+  leagan: ach
+  bearla: only because
+  rann: cónasc
+  sampla: D'éirigh liom ach go dtáinig Niall liom
+  link:
+- ainm: ach 
+  leagan: ach
+  bearla: but, for, that, unless
+  rann: cónasc
+  sampla: bheadh siad ina slí míghrinn ... ach murab é go gcuirfí chun an chnoic iad
+  link:
+- ainm: achainí 
+  leagan: athghuingne
+  bearla: entreaty
+  rann: ainmfhocal
+  sampla: d'iarr sé mar achainí air luascán a dhéanamh
+  link:
+- ainm: achainí 
+  leagan: athghuingne
+  bearla: for the love of God
+  rann: ainmfhocal
+  sampla: Mar achainí le Dia ort agus stad den ól
+  link:
+- ainm: achmair 
+  leagan: á
+  bearla: speedy
+  rann: aidiacht
+  sampla: Inis domh cá bhfuil an tslaitín go hachmair  
+  link:
+- ainm: achrannach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aclaí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: acmhainn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: acra 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: adharc
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: adharcach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: adhastar 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: adhmad 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: admhaíonn :  aidmhíonn
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: admháil : aidmhéil
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aduaidh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aer 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aerach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ag 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: agallamh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aghaidhe  
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: agraíonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: agus 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aibhéiseach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aibíd 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aice 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aicíd 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aidmhéil 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aidmhíonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aifis 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aiféaltas
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aigeantach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aighneas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aigéan :  daigeán
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ailiam 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ailleacán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ailleagán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ailpín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ailtín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aimhreo 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aimhréiteach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aimlithe 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aimhreo 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aimseachán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aimsear 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aimsiú 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aineolach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aingeal 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aingíoch 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ainm 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ainmníonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ainneoin 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ainniseach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: airc 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aird 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: airde 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: airdeacht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: airdíonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aire 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: airgead 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: airne 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: airí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: airíoch 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ais 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aisling 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aiste 1 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aiste 2 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aisíoc 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aiteannach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aithne 1 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aithne 2 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aithneach
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aithníonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aithreach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aithrí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aithíneacht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: allas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: almanac 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: alpán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: alt 1 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: alt 2 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: am 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: amach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: amadán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: amharc 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: amharcann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ampla 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: amuigh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: amárach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: an 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anall 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anam 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anáil vid. sú.
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anás 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anásta 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anbhainne(acht) 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anbhann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anbheathach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anbhúirthe 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ancaire 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anchnap 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anchúinse 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aneas vid. deas 2.
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: angar vid. pluc.
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aniar vid. gaoth
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anmhian 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anmhéid 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anocht
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anordú 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anrud 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ansiúl 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anuair 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anuas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: anuasal 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aoibheall 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aoibhneas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aoileach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: Aoine 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aol 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aon 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aonracánach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: aor 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ar 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: áraí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: araicis 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: arann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ard 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ardaíonn :  airdíonn
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ardtráthnóna 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ariamh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: arm 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: arraing 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: arsa 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: arán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: as 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: asal 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: astoigh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ateacht
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: athair 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: atharna 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: athbhliain 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: athleas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: athluisneach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: athraíonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: athrú 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: athshailleadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: atochailt 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ba 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bá 1
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: báighe
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bá
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: báitheadh
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bacach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bacann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bachrán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bachtaiste 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bacáilte vid. tirim
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bacán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bagar 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baicle 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bail 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baile 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baileach :  balach
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bailíonn :  balaíonn
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baineann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bainis 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bainne 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bairéad :  bearad
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baisteann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baistíoch
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baithis :  bathais
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baitsileáir 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: balach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: balaíonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: balc 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ball 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: balla 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ballóg
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: balscóid 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bambadh n.
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baog :  buidheog
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baoite 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baoiteáil 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: baol 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bara 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: barr 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: barra 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: barraíonn
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: barrscéal
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: barróg 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: barúil 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: barúlach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bascadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bata 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: batalach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bathais 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beathachán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beacht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beacht
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beag 1 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beag 2 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beagán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bealach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bean 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beanglán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beann :  beinn
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beannacht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beannaíonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beannán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bearad 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bearnadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bearrbhach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bearrtha 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beart 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beáthach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beathachán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beathán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beile 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beilt 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beilt 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beinn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beireann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beirt 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beirteoir
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beithíoch :  beáthach
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beo 1 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beo 2 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bhíleacó bhaileacó 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bia 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bile 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: biolar 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bior 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: biorca 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: biorán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bladar :  blandar
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: blainsneog 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: blasta 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: blastacht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bleachtán :  bliochtán
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bleitheach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bleán :  bliogan
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bliain 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bliochtán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bliogan 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: blocán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: blosc 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: blár 2
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bláth 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bláth 2 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bléascadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bléascann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bleitheach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bliain f. 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bliochtán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bó 1 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bó 2 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boc’ 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boc 2 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bochaillín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bocht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bod 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bodach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bodhraíonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bog 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bogadach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bogán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bogadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bogann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boglán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boglas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boglucht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bogreathaí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bogspréaghadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bogspréidheadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bogán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boidín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boigeán
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boilgeog 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boilsceann
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: boladh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bolg 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bolgam 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bolmhánta 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bolsa 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bolta 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bológ 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bomaite 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: beag.
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bonn  
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bonn  
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bonnach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bonsach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bord 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bordann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: borraíonn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bos 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bosca 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bothán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bothóg 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brachán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bradach
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bradán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: braeisín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brainse 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: braitheann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: braodar 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: braon 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brat 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bratóg 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brot 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breac 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breacbhuí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breall 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breallán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bréid 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bréidín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breim 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breith  
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breith  
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breitheamh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breith
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breithiúnas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: breoinín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bres 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: briartach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: briathar 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: briathrach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: briathraíocht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bríbeálann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brillín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bróch
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brionglóideach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brionglóidí
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: briosc 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brioscán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brioscar 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bris 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: briseadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bearnadh. 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bríste 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: broc 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brocach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bróg 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: broghach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: broidearnach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brollach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brónach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: briseann
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bronnann
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: broslú 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brot 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brotha 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bheirt 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bruach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bruagae 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bruighin 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bruith 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bruitheann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bruithlí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brúnn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bruscar
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bú 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bua 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buachaill 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buachailleacht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buachaillín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buadán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buafalán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buaic 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buaileann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buailteachas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buaireamh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bualadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buanaíocht
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buarach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buartha 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: brónach.
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bucla 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buícín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buidéal 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buille 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buinneach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buinse 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buíochas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: buíog
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: búireach
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: búirfí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: búirthe 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bulaí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bullán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bun 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bunadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bunc 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: bunús 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: burn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: búrthach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cá 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cab 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cabha 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cabhairín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cac 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caidé 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cadhan 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caidearaí 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caidearna 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caidín 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caileannógach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caill 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: ceart
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cailleach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cluins
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cailleadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cailleann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caillteach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caint 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cairde 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cairíní 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cairt 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caiseal 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caisearbhán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caisleán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cáith 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cáitheadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caitheann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caitíneach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cál 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caladh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: calaimirt 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: calcadh 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: call 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cam 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: camán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: camóg 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: canach
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: canann
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: canóg 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caoch 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caochán 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caoi 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: chur 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caoin
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caoin 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caolas 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caolbhárc 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caolbhruideogach, 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caonach 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caor 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caoradóir 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caoraíocht 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: caorthann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: capall 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cár 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: carcaoin 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: carda 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cardáil 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cardálann 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cárfhiacail 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: cargáil 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: carn 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: carnán
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: carr 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: carra 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:
+- ainm: carraig 
+  leagan: á
+  bearla: of
+  rann: réamhfhocal
+  sampla: gan á shásamh a fhágáil ag na hiolair
+  link:

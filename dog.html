@@ -8,8 +8,9 @@
 <ul>
 {% for dog in site.text %}
 <li>
-		
-<p>{{dog.content }}</p>
+	<h2>{{ dog.title}}</h2>		
+<p>{{ dog.excerpt }}</p>
+
 	</li>
 	
 {% endfor %}

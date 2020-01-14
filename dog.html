@@ -5,6 +5,8 @@
 	<title></title>
 </head>
 <body>
-	<p>{{site.text.dog}}</p>
+	{% for dog in site.text %}
+	<p>{{dog.content | markdownify }}</p>
+	{% endfor %}
 </body>
 </html>

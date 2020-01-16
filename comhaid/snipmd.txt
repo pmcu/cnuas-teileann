@@ -1,0 +1,9 @@
+---
+layout: liosta
+cnuas: "Cnuasach Focal as Teileann"
+focal:
+leagan:
+rann: 
+bearla:
+udar: "Úna M. Uí Bheirn"
+---

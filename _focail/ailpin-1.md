@@ -3,7 +3,7 @@ layout: liosta
 cnuas: "Cnuasach Focal as Teileann"
 focal: ailpín
 leagan: ailpín
-rann: ainmfhocl
+rann: ainmfhocal
 bearla: knob (of stick)
 udar: "Úna M. Uí Bheirn"
 ---

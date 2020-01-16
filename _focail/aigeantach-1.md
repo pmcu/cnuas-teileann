@@ -7,7 +7,7 @@ rann: aidiacht
 bearla: perky, alert, animated
 udar: "Úna M. Uí Bheirn"
 ---
-## aigeantach
+## aigeantach 1
 
 * Perky, alert, animated. ba ghoirid go
 dteachaidh siad [beirt fhear a raibh féar gortach

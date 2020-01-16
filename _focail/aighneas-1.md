@@ -3,7 +3,7 @@ layout: liosta
 cnuas: "Cnuasach Focal as Teileann"
 focal: aighneas
 leagan: aighneas
-rann: ainmfhocl
+rann: ainmfhocal
 bearla: impudence
 udar: "Úna M. Uí Bheirn"
 ---

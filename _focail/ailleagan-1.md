@@ -2,9 +2,9 @@
 layout: liosta
 cnuas: "Cnuasach Focal as Teileann"
 focal: ailleagán
-leagan: aighneas
-rann: ainmfhocl
-bearla: impudence
+leagan: ailleagán
+rann: ainmfhocal
+bearla: whirling
 udar: "Úna M. Uí Bheirn"
 ---
 

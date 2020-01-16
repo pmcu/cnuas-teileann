@@ -5,7 +5,3 @@ exclude: [README.md]
 collections:
   focail:
     output: true
-collections:
-  text:
-    output: true
-            

@@ -1,7 +1,7 @@
 ---
 layout: liosta
 cnuas: "Cnuasach Focal as Teileann"
-focal: aingíoch
+focal: aingíochearcl
 leagan: aingidheach
 rann: aidiacht
 bearla: finicky

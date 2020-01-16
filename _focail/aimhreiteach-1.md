@@ -8,7 +8,7 @@ bearla: troublesome
 udar: "Úna M. Uí Bheirn"
 ---
 
-# aimhréiteach
+# aimhréiteach 1
 
 * Bealach ~ , troublesome way of life, ‘hard time’.
 * cá háit a raibh siad ([)daoine a tugadh as) nó an rabh

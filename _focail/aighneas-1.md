@@ -7,7 +7,7 @@ rann: ainmfhocal
 bearla: impudence
 udar: "Úna M. Uí Bheirn"
 ---
-## aighneas
+## aighneas 1
 
 * Ag coinneáil aighnis (le duine), answer-
 ing (s.o.) back impudently.

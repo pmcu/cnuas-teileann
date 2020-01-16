@@ -8,8 +8,9 @@ bearla: whirling
 udar: "Úna M. Uí Bheirn"
 ---
 
-## ailleagán n. - roithleagán (?).
+## ailleagán
 
+* - roithleagán (?).
 * Whirling (?)).
 * Song: 'na ruaine 's na ruaine gan uain le gaoith
 ailleagáin PS1 Béal 31 68.

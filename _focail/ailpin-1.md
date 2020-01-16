@@ -8,8 +8,9 @@ bearla: knob (of stick)
 udar: "Úna M. Uí Bheirn"
 ---
 
-# ailpín m. Knob (of stick).
+# ailpín 1
 
+* Knob (of stick).
 * Caithfidh tú bata iarainn a fhághail … agus
 ~ cruadhcha a bheith ar a cheann SB6 142 1360.
 * ceithre phunta dhéag … de ~ cruadhcha a bheith

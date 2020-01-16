@@ -8,8 +8,10 @@ bearla: dispute
 udar: "Úna M. Uí Bheirn"
 ---
 
-# aimhreo m. Dispute.
+# aimhreo 1
 
+* Dispute.
 * réitíodh na scoláirí an t- ~ do réir mar is mian
-leo PS1 1705 213. cf. eadar an t- ~ atá ins an tír agus
-an dualgas atá orm anseo IAER 15. FGB: AIMHRÉIDH.
+leo PS1 1705 213. cf.
+* eadar an t- ~ atá ins an tír agus an dualgas atá orm anseo IAER 15.
+FGB: AIMHRÉIDH.

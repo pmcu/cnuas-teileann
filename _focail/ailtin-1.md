@@ -8,7 +8,8 @@ bearla: stick, bit of a stick
 udar: "Úna M. Uí Bheirn"
 ---
 
-# ailtín m. Stick, bit of a stick (?).
+# ailtín 1
 
+* Stick, bit of a stick (?).
 * gur casadh crann orainn agus stap an beathadhach,
 agus gheárr Paidí ~ maith de thaobh an chrainn PI 139 179.

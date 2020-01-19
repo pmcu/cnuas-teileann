@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h3>Cnuasach Focal as Teileann</h3>
+
+<h4>Liosta Focal</h4>
+
+{% for item in site.data.people %}
+
+<ul>
+	<li>{{ item.age}}</li>
+	<li><{{ item.name}}</li>
+	<li>{{ item.sex }}</li>
+<hr>
+</ul>
+
+{% endfor %}

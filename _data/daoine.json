@@ -1,14 +1,16 @@
-duine:[
-{ainm: 'Barney',
-jab:'rat catcher',
-hata:'pointy'
+duine: [
+{
+  ainm: 'Barney',
+  jab:'rat catcher',
+  hata: 'pointy'
 },
-{ainm: 'Tom',
-jab:'rat catcher',
-hata:'roundy'
+{
+  ainm: 'Tom',
+  jab: 'rat catcher',
+  hata: 'roundy'
 },
 {ainm: 'Anny',
-jab:tea 'maker',
-hata:'soft'
+jab: 'tea-maker',
+hata: 'soft'
 }
 ]

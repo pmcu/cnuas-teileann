@@ -10,7 +10,7 @@ udar: "Úna M. Uí Bheirn"
 
 ## airde 2 
 
-2. Cuireann in ~. 
+* Cuireann in ~. 
 * (i) Spatters upwards.
 * cuireann sé [bradán fireann] cnapannai’ sgainn-
 iogáin in áirde SS1 988 452. 

@@ -12,7 +12,6 @@ udar: "Úna M. Uí Bheirn"
 
 * Cuireann in ~. 
 * (i) Spatters upwards.
-* cuireann sé [bradán fireann] cnapannai’ sgainn-
-iogáin in áirde SS1 988 452. 
+* cuireann sé [bradán fireann] cnapannai’ sgainniogáin in áirde SS1 988 452. 
 * (ii) Complains (?). cé chasfadh é … ach Nábla 
 bhán atá ag cur in áirde ins an chlúid MDhl 140 219.

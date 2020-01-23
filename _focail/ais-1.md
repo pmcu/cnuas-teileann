@@ -23,6 +23,7 @@ a léithéid de dhóigh Béal 23 220.
 * (iii) In the future.
 * Is mall ar ~ go mbainfidh mise an clár díot
 CB2 2077 106, it will be a long time
-before (…).fhad's tá mise i nGleann ar ~ … ná
+before (…).
+* fhad's tá mise i nGleann ar ~ … ná
 cuir a’n chomhar gadaíocht’ orm CB2 2078 236,
 for as long again as I am in Glen, (…).

@@ -15,12 +15,13 @@ layout: liosta
 
     <h3>Foclóir</h3><hr>
     {% for focal in site.focail %}
-<h4>{{focal.leagan}}</h4>
+<h2>{{focal.focal}}</h2>
 <h5>{{focal.rann}}</h5>
-<h5><a href="{{focal.url | relative_url}}" ><strong>Nasc</strong>: {{focal.leagan}}</a></h5>
+<h5><a href="{{focal.url | relative_url}}"
+		><strong>Nasc</strong>: {{focal.focal}}</a></h5>
 <strong>Béarla: </strong>
 {{focal.bearla}}
-     
+
   <hr>
     {% endfor %}
 

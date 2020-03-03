@@ -4,7 +4,7 @@ cnuas: "Cnuasach Focal as Teileann"
 focal: aiste
 leagan: aiste
 rann: ainmhfhocal
-bearla: planda cosúil le neantóg
+bearla: nettle like plant
 udar: "Úna M. Uí Bheirn"
 ---
 

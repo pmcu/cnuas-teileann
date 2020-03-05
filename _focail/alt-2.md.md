@@ -1,3 +1,18 @@
+---
+layout: liosta
+cnuas: "Cnuasach Focal as Teileann"
+focal: ach
+leagan: ach
+rann: réamhfhocal is cónasc
+bearla: but
+údar: Úna M. Uí Bheir
+
+---
+
+
+
+
+
 <Focal alt 2 >
 
 
@@ -18,5 +33,5 @@ iarraidh na táirgní a tharraingt lena gob bheag SC3 989
 thiar air SS1 472 602.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Mzc2NjM3XX0=
+eyJoaXN0b3J5IjpbMTU3OTY3Mzk1Nl19
 -->

@@ -11,10 +11,10 @@ bearla: nodule
 
 ## alt 2
 
-* Nodule, outgrowth. 
-* Tá ailt gharbha air, ach tá sé milis SE1 991 88. 
+* Segment. Tá sé canta nach bhfuil ~ san fhliodh nach
+bhfuil léigheas ar leith ann ME 987 140. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4ODAyMzcyXX0=
+eyJoaXN0b3J5IjpbLTIxMDkwNDk4ODUsNzY4ODAyMzcyXX0=
 -->
